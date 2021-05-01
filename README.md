@@ -2,11 +2,11 @@
 
 ## Quick start
 
-- Clone the repo: `https://github.com/harrynaruto0610/savenwin-entire.git`.
+- Clone the repo: `https://github.com/hwolf0610/react-axios-file-upload-progress.git`.
 
-- Install with `npm i `
+- Install with `yarn `
 
-- Project run  `npm run start ` .
+- Project run  `yarn start ` .
  
 
 ## Browser Support
